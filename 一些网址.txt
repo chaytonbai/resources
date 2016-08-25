@@ -1,0 +1,14 @@
+1. 编程入门指南 v1.5
+https://zhuanlan.zhihu.com/p/19959253
+
+2. 我们如何学好Java？
+http://www.zhihu.com/question/19945685?rf=19881401
+
+3. 一个java软件开发者的成功java自学之路
+http://blog.sina.com.cn/s/blog_6215eaa70101c9ro.html
+
+4. Java在线教程
+http://www.runoob.com/java/java-tutorial.html
+
+5. 一个在线教学网站
+https://www.coursera.org/
